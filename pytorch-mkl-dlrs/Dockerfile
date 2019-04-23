@@ -1,4 +1,4 @@
-FROM clearlinux/stacks-pytorch-mkl
+FROM nauta/pytorch-dlrs-mkl
 
 WORKDIR /app
 

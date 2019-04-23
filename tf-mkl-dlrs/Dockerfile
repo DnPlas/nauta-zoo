@@ -1,4 +1,4 @@
-FROM clearlinux/stacks-dlrs-mkl
+FROM nauta/tensorflow-dlrs-mkl
 
 WORKDIR /app
 
